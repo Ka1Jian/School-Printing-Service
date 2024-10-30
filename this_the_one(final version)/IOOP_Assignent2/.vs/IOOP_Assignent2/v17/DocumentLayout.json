@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\CUSTOMER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\CUSTOMER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\profilesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\profilesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\PROFILESETTINGS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\PROFILESETTINGS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\RESETPASSWORD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\RESETPASSWORD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\requestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\requestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\ADMIN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\ADMIN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\Services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\ADMINREGISTERSYSTEM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\ADMINREGISTERSYSTEM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\adminregistersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\adminregistersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\AssignedWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\AssignedWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\assignedwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\assignedwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\AssignRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\AssignRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\assignrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\assignrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Income_Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\Income_Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\income_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\income_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\LOGIN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\LOGIN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\MANAGER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\MANAGER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\REGISTER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\REGISTER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Requst_Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\Requst_Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\requst_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\requst_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\WORKER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\WORKER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\View_Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\View_Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\view_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\view_request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\WorkDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\WorkDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\ioop_assignent2\\workdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ioop_assignent2\\workdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\_LOGINDATABASE__1_DataSet2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOOP_Assignent2\\_LOGINDATABASE__1_DataSet2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CUSTOMER.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\CUSTOMER.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\CUSTOMER.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\CUSTOMER.cs [Design]",
+              "RelativeToolTip": "IOOP_Assignent2\\CUSTOMER.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:14.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CUSTOMER.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\CUSTOMER.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\CUSTOMER.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\CUSTOMER.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\CUSTOMER.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:14.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RESETPASSWORD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\RESETPASSWORD.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\RESETPASSWORD.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\RESETPASSWORD.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\RESETPASSWORD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:14.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PROFILESETTINGS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\PROFILESETTINGS.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\PROFILESETTINGS.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\PROFILESETTINGS.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\PROFILESETTINGS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:14.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PROFILESETTINGS.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\PROFILESETTINGS.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\PROFILESETTINGS.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\PROFILESETTINGS.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\PROFILESETTINGS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:14.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RESETPASSWORD.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\RESETPASSWORD.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\RESETPASSWORD.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\RESETPASSWORD.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\RESETPASSWORD.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAApwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:14.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "requestService.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\requestService.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\requestService.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\requestService.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\requestService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:14.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "requestService.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\requestService.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\requestService.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\requestService.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\requestService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:14.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ADMIN.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\ADMIN.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\ADMIN.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\ADMIN.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\ADMIN.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAawDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:14.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ADMIN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\ADMIN.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\ADMIN.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\ADMIN.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\ADMIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Services.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Services.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\Services.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\Services.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\Services.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Request.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\Request.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Request.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Services.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\Services.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Services.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\Services.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAnwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Payment.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\Payment.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Payment.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\Payment.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwOkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Payment.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\Payment.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\Payment.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ADMINREGISTERSYSTEM.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\ADMINREGISTERSYSTEM.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\ADMINREGISTERSYSTEM.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\ADMINREGISTERSYSTEM.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\ADMINREGISTERSYSTEM.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIAwwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ADMINREGISTERSYSTEM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\ADMINREGISTERSYSTEM.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\ADMINREGISTERSYSTEM.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\ADMINREGISTERSYSTEM.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\ADMINREGISTERSYSTEM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssignedWork.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\AssignedWork.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\AssignedWork.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\AssignedWork.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\AssignedWork.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAMwGMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssignedWork.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\AssignedWork.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\AssignedWork.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\AssignedWork.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\AssignedWork.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssignRequest.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\AssignRequest.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\AssignRequest.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\AssignRequest.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\AssignRequest.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAMwFcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssignRequest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\AssignRequest.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\AssignRequest.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\AssignRequest.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\AssignRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Income_Report.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Income_Report.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\Income_Report.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Income_Report.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\Income_Report.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAWwGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Income_Report.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Income_Report.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\Income_Report.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\Income_Report.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\Income_Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LOGIN.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\LOGIN.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\LOGIN.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\LOGIN.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\LOGIN.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAD4v3oAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LOGIN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\LOGIN.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\LOGIN.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\LOGIN.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\LOGIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MANAGER.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\MANAGER.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\MANAGER.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\MANAGER.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\MANAGER.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAIAwwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MANAGER.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\MANAGER.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\MANAGER.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\MANAGER.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\MANAGER.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "REGISTER.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\REGISTER.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\REGISTER.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\REGISTER.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\REGISTER.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAWwEkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "REGISTER.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\REGISTER.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\REGISTER.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\REGISTER.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\REGISTER.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Requst_Report.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Requst_Report.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\Requst_Report.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Requst_Report.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\Requst_Report.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAWwFoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Requst_Report.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Requst_Report.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\Requst_Report.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\Requst_Report.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\Requst_Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WORKER.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\WORKER.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\WORKER.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\WORKER.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\WORKER.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAD4vxwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WORKER.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\WORKER.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\WORKER.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\WORKER.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\WORKER.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "View_Request.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\View_Request.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\View_Request.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\View_Request.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\View_Request.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAMwEkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "View_Request.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\View_Request.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\View_Request.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\View_Request.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\View_Request.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WorkDetails.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\WorkDetails.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\WorkDetails.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\WorkDetails.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\WorkDetails.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAMwGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "WorkDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\WorkDetails.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\WorkDetails.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\WorkDetails.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\this_the_one\\IOOP_Assignent2\\IOOP_Assignent2\\WorkDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T06:06:24.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Program.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\Program.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\Program.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_LOGINDATABASE__1_DataSet2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\_LOGINDATABASE__1_DataSet2.Designer.cs",
+              "RelativeDocumentMoniker": "IOOP_Assignent2\\_LOGINDATABASE__1_DataSet2.Designer.cs",
+              "ToolTip": "C:\\Users\\deracho\\Downloads\\this_the_one(final version)-20241030T060035Z-001\\this_the_one(final version)\\IOOP_Assignent2\\IOOP_Assignent2\\_LOGINDATABASE__1_DataSet2.Designer.cs",
+              "RelativeToolTip": "IOOP_Assignent2\\_LOGINDATABASE__1_DataSet2.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:24.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
